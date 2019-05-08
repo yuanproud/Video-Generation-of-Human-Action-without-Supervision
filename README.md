@@ -5,6 +5,4 @@
 <img src="result/3.gif" alt="overview" style="float:middle;">
 <img src="result/4.png" alt="overview" style="float:middle;">
 
-![image](result/1.gif)
-
 <img src="result/fake_RGBVideo_epoch-0.mp4" alt="overview" style="float:middle;">
