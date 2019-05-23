@@ -1,10 +1,12 @@
 Video-Generation-of-Human-Action-without-Supervision
 ==========
+
 All models are implemented by PyTorch <br>
 Code coming soon
+
 Performance Evaluation
 ----------
-
+<img src="result/Performance Evaluation.png" width="300" height="250" style="float:middle;">
 Visual Results Comparing
 ----------
 ### Sitting
