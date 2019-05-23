@@ -6,7 +6,7 @@ Code coming soon
 
 Performance Evaluation
 ----------
-<img src="result/Performance Evaluation.png" width="500" height="400" style="float:middle;">
+<img src="result/Performance Evaluation.png" width="500" height="300" style="float:middle;">
 
 Visual Results Comparing
 ----------
