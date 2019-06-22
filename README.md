@@ -5,7 +5,7 @@ A PyTorch implementation of "GAN-Based Video Generation of Human Action by Using
 
 Dataset Preparation
 ----------
-1. To reproduce our results, download the Huamn 3.6M dataset(https://vision.imar.ro/human3.6m/main_login.php).
+1. To reproduce our results, download the [Huamn 3.6M dataset](https://vision.imar.ro/human3.6m/main_login.php).
 2. Resize the videos into 256*256, and save all the videos in a single folder named Videos_"action"_256
 3. Using the 
 
