@@ -11,7 +11,8 @@ Dataset Preparation
 
 Demo
 ----------
-Download [pre-train pytorch models](https://drive.google.com/drive/folders/1e57BfOmdBrufcy5au5FwqrkJ07KoWaJ0?usp=sharing)
+* Download [pre-train pytorch models](https://drive.google.com/drive/folders/1e57BfOmdBrufcy5au5FwqrkJ07KoWaJ0?usp=sharing)
+
 Training
 ----------
 
