@@ -1,8 +1,13 @@
-Video-Generation-of-Human-Action-without-Supervision
+GAN-Based Video Generation of Human Action by Using Two Frames
 ==========
 
-All models are implemented by PyTorch <br>
-Code coming soon
+A PyTorch implementation of "GAN-Based Video Generation of Human Action by Using Two Frames"<br>
+
+Dataset Preparation
+----------
+1. To reproduce our results, download the Huamn 3.6M dataset.
+2. Resize the videos into 256*256, and save all the videos in a single folder named Videos_"action"_256
+3. 
 
 Performance Evaluation
 ----------
