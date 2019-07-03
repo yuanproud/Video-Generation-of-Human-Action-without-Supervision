@@ -25,7 +25,8 @@ Demo
 
 Training
 ----------
-<pre><code>python pose_complement.py<br> 
+<pre><code>python pose_complement.py
+<br></br>
 optional arguments:
 --batch_size      training batch size [default value is 32]
 --niter           epoch of training [default value is 5000]
