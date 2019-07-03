@@ -29,7 +29,8 @@ Training
 <pre><code>python sequence_complement.py </code></pre>
 <pre><code>python heatmap_to_RGB.py </code></pre>
   
-The parameters will save in the different folder separately.
+* All the training will get good performance until 500 epoch.
+* The parameters will save in the different folder separately.
 
 Performance Evaluation
 ----------
