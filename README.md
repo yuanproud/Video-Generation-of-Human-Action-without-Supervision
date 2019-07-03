@@ -25,7 +25,13 @@ Demo
 
 Training
 ----------
-<pre><code>python pose_complement.py </code></pre>
+<pre><code>python pose_complement.py 
+optional arguments:
+--batch_size      training batch size [default value is 32]
+--niter           epoch of training [default value is 5000]
+--pre_train       whether use the pre-train model [default value is -1]
+--imiage_size     training images size [default value is 256]
+--action          Action of you want to generate [default value is 'Walking']</code></pre>
 <pre><code>python sequence_complement.py </code></pre>
 <pre><code>python heatmap_to_RGB.py </code></pre>
   
