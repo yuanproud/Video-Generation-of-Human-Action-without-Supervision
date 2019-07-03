@@ -3,6 +3,15 @@ GAN-Based Video Generation of Human Action by Using Two Frames
 
 A PyTorch implementation of "GAN-Based Video Generation of Human Action by Using Two Frames"<br>
 
+Requirements
+----------
+* PyTorch
+* pytorchvision
+* numpy
+* imageio
+* scipy
+* spacepy
+
 Dataset Preparation
 ----------
 1. To reproduce our results, download the [Huamn 3.6M dataset](https://vision.imar.ro/human3.6m/main_login.php).
@@ -12,9 +21,13 @@ Dataset Preparation
 Demo
 ----------
 * Download [pre-train pytorch models](https://drive.google.com/drive/folders/1e57BfOmdBrufcy5au5FwqrkJ07KoWaJ0?usp=sharing)
+* Run the test.py
 
 Training
 ----------
+* python pose_complement.py
+* python sequence_complement.py
+* python heatmap_to_RGB.py
 
 Performance Evaluation
 ----------
