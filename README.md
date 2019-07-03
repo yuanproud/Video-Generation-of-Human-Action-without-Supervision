@@ -25,9 +25,11 @@ Demo
 
 Training
 ----------
-* python pose_complement.py
-* python sequence_complement.py
-* python heatmap_to_RGB.py
+  python pose_complement.py
+  python sequence_complement.py
+  python heatmap_to_RGB.py
+  
+The parameters will save in the different folder separately.
 
 Performance Evaluation
 ----------
